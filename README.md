@@ -1,0 +1,3 @@
+# jdkaction
+
+Testing JDK installation
